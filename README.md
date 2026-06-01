@@ -91,7 +91,7 @@
 - 메인 메뉴에서는 회원과 관리자 로그인, 회원가입을 할 수 있습니다.
 
 | 초기화면 | 회원 로그인 화면 |
-
+| ---- | --- |
 | ![image](https://github.com/kimg1623/Shopping-CLI-Java/assets/145963790/0ada0842-b780-4db9-87d2-e84ca17faa16) | ![image](https://github.com/kimg1623/Shopping-CLI-Java/assets/145963790/a82d09a7-5722-4ebe-94ea-87fcf39163f7) |
 
 
