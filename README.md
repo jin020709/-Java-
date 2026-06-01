@@ -18,7 +18,7 @@
 
 | **조경진** | **황지민** |
 | :------: |  :------: |
-| [<img src="https://avatars.githubusercontent.com/u/145963704?v=4" height=150 width=150> <br/> @Jincheol-11](https://github.com/Jincheol-11)| [<img src="https://avatars.githubusercontent.com/u/40616792?v=4" height=150 width=150> <br/> @kimg1623](https://github.com/kimg1623) |
+| [<img src="https://github.com/user-attachments/assets/42fe3dee-cf9f-41ab-b9ba-595cc5eb3ef5" height=150 width=150> <br/> @jin020709](https://github.com/jin020709)| [<img src="https://avatars.githubusercontent.com/u/40616792?v=4" height=150 width=150> <br/> @kimg1623](https://github.com/kimg1623) |
 | 상품전체보기<br>상품상세조회<br>관리자 로그인<br>기능 구현 | 관리자 기능 구현<br>구현 기능 연결|
 
 </div>
