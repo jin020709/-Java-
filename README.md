@@ -1,8 +1,7 @@
 # 🛍음식쇼핑몰 Java-CLI 프로그램
 
 ![image](https://github.com/kimg1623/Shopping-CLI-Java/assets/145963790/24701101-d868-4574-a582-50c88dddd7ae)
-
-
+![image](https://github.com/user-attachments/assets/48e0a959-cee6-4485-a951-817adf43b454)
 
 <br>
 
