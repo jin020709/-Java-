@@ -52,7 +52,7 @@
   <summary>요구사항 명세서</summary>
 
   1. 초기화면
-  ![image](https://github.com/kimg1623/Shopping-CLI-Java/assets/145963790/973c1332-38bb-4187-ab84-4ca33e168388)
+  ![image](https://github.com/user-attachments/assets/05ae2d72-73f0-4eaa-85e8-86ed6ca506ab)
 
 2. 회원 로그인 성공 후 화면
    ![image](https://github.com/kimg1623/Shopping-CLI-Java/assets/145963790/7a5de9d5-e1a9-4336-afc7-b55d2e6ede68)
