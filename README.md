@@ -61,7 +61,7 @@
    ![image](https://github.com/kimg1623/Shopping-CLI-Java/assets/145963790/70c0ce39-3f57-4930-8cd5-cf604a83802b)
 
 4. 관리자 로그인 성공 후 메뉴 / 상품관리화면 / 주문관리화면
-   ![image](https://github.com/kimg1623/Shopping-CLI-Java/assets/145963790/d85f7c9f-ab37-46a0-97d7-e831c1bc6a21)
+   ![image](https://github.com/user-attachments/assets/b4cdcd12-6cc7-4047-bc81-3ad6d003f88a)
 
 
 
