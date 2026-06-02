@@ -92,7 +92,6 @@
 
 | 초기화면 | 회원 로그인 화면 |
 | --- | --- |
-| ![image](https://github.com/kimg1623/Shopping-CLI-Java/assets/145963790/0ada0842-b780-4db9-87d2-e84ca17faa16) | ![image](https://github.com/kimg1623/Shopping-CLI-Java/assets/145963790/a82d09a7-5722-4ebe-94ea-87fcf39163f7) |
 
 
 <br>
@@ -101,7 +100,6 @@
 ### [회원 가입]
 - 회원 가입을 하면 DB의 member 테이블에 입력 받은 정보를 저장합니다.
   
-  ![image](https://github.com/kimg1623/Shopping-CLI-Java/assets/145963790/98e02ab3-449e-45a8-a302-17280991e456)
 
 
 <br>
@@ -114,7 +112,6 @@
 
 | 패스워드 불일치 | 미등록 아이디 |
 | --- | --- |
-| ![image](https://github.com/kimg1623/Shopping-CLI-Java/assets/145963790/f3e5f591-4a23-4344-9ded-7bdb9ea82821) | ![image](https://github.com/kimg1623/Shopping-CLI-Java/assets/145963790/b99398b4-648d-4225-9689-85a1d172741d)|
 
 
 <br>
@@ -125,7 +122,6 @@
 
 | 상품전체보기 |
 |----------|
-|![image](https://github.com/kimg1623/Shopping-CLI-Java/assets/145963790/c0801a23-3e3a-4c2a-8c12-162d39f1b70f)|
 
 <br>
 
@@ -134,7 +130,6 @@
 
 | 상품전체보기 |
 |----------|
-|![image](https://github.com/kimg1623/Shopping-CLI-Java/assets/145963790/5a99ebf1-c06c-42b7-84f1-c1f89fb8334c)|
 
 <br>
 
@@ -147,19 +142,6 @@
 
 | 주문/배송조회 | 주문수정 | 주문 취소 |
 | --- | --- | --- |
-| ![image](https://github.com/kimg1623/Shopping-CLI-Java/assets/145963790/27850197-db15-4327-ac15-7608482d6337) | ![image](https://github.com/kimg1623/Shopping-CLI-Java/assets/145963790/9218081d-02ba-493b-b130-9ebcc1c02c00) | ![image](https://github.com/kimg1623/Shopping-CLI-Java/assets/145963790/106df261-abb5-4701-97cb-7bc52b01c813) |
-
-<br>
-
-
-
-#### [4. Top10 상품보기]
-- TOP10 메뉴에서는 상품의 누적 판매량과 상품 가격이 표시되어 있으며 상품의 누적 판매량에 따른 순위를 내림차순으로 나타냅니다.
-- 상품상세조회에 해당하는 번호를 누르면 가격 외에 재고량, 상품설명 등을 볼 수 있습니다.
-
-| Top10 상품 |
-|----------|
-|![image](https://github.com/kimg1623/Shopping-CLI-Java/assets/145963790/8f1d8548-fdfe-4ffc-94a0-e53fec0d6eab)|
 
 <br>
 
@@ -171,11 +153,10 @@
 
 | 장바구니 | 구매결정 화면 |
 | --- | --- |
-| ![장바구니](https://github.com/kimg1623/Shopping-CLI-Java/assets/145963704/142d7920-c06f-46fb-97b3-b599a212f43c) | ![구매결정 화면](https://github.com/kimg1623/Shopping-CLI-Java/assets/145963704/73a44988-d572-4e27-b8a9-e1598228c2f8) |
+
 
 | 주소/전화번호 변경 | 주문 완료 |
 | --- | --- |
-| ![주소/전화번호 변경](https://github.com/kimg1623/Shopping-CLI-Java/assets/145963704/d2967aca-e179-4d5a-8ac8-8f1ebed766b8) | ![주문 완료](https://github.com/kimg1623/Shopping-CLI-Java/assets/145963704/4df72ee5-8241-484d-8efd-daabc5e81fbb) |
 <br>
 
 
@@ -185,7 +166,6 @@
 
 | 내정보확인 | 내정보수정 |
 | --- | --- |
-| <img width="350" alt="내정보확인" src="https://github.com/kimg1623/Shopping-CLI-Java/assets/145963704/471d3a40-39f0-4632-8f61-b9e31ad3cbfd"> | <img width="331" alt="내정보수정" src="https://github.com/kimg1623/Shopping-CLI-Java/assets/145963704/911850a9-d692-4f8f-bad4-3835daa84329"> |
 
 
 
