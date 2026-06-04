@@ -31,7 +31,7 @@
 **Collaboration** <div><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></div>
 
 **AI** <div> <img src="https://github.com/user-attachments/assets/1c714b4e-3f05-470a-a7eb-3ed9184d211f"  height=25 width=50>
-<img src="https://github.com/user-attachments/assets/12047116-b869-41f5-96ba-e10201c73342" height=25 width=50>
+<img src="https://github.com/user-attachments/assets/12047116-b869-41f5-96ba-e10201c73342" height=25 width=60>
 
 
 
