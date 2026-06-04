@@ -81,6 +81,17 @@
 
 <br>
 
+<details>
+  <summary>유스케이스 다이어그램</summary>
+
+![class](https://github.com/kimg1623/Shopping-CLI-Java/assets/145963704/a574220c-39cd-436f-85f4-f3b2600a660c)
+
+
+
+</details>
+
+<br>
+
 
 ## 4. 구현 기능
 
