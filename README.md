@@ -55,7 +55,7 @@
   ![image](https://github.com/user-attachments/assets/05ae2d72-73f0-4eaa-85e8-86ed6ca506ab)
 
 2. 회원 로그인 성공 후 화면
-   ![image](https://github.com/kimg1623/Shopping-CLI-Java/assets/145963790/7a5de9d5-e1a9-4336-afc7-b55d2e6ede68)
+   ![image](https://github.com/user-attachments/assets/b71e34f8-bd81-406a-a0bc-192f1ac47653)
 
 3. 장바구니/결제
    ![image](https://github.com/kimg1623/Shopping-CLI-Java/assets/145963790/70c0ce39-3f57-4930-8cd5-cf604a83802b)
