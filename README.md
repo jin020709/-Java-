@@ -55,7 +55,7 @@
   ![image](https://github.com/user-attachments/assets/983de764-97a2-4f43-897c-e598a00be915)
 
 2. 회원 로그인 성공 후 화면
-   ![image]https://github.com/user-attachments/assets/b6983bd5-7dc1-44df-b44e-b0a56dfcf8b4)
+   ![image](https://github.com/user-attachments/assets/b6983bd5-7dc1-44df-b44e-b0a56dfcf8b4)
 
 3. 장바구니
    ![image](https://github.com/user-attachments/assets/4ed13283-0114-4ff3-9e8f-16f9749a3c52)
