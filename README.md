@@ -153,11 +153,11 @@
 
 | 장바구니 | 쿠폰결정 화면 |
 | --- | --- |
-| ![image](https://github.com/user-attachments/assets/2b45c21f-90f9-422c-8980-ce7dfbcc3eba) | ![image](https://github.com/user-attachments/assets/5a80da31-ba68-4b3d-b073-a3861f30a495) |
+| ![image](https://github.com/user-attachments/assets/2b45c21f-90f9-422c-8980-ce7dfbcc3eba) | ![image](https://github.com/user-attachments/assets/92c50ca9-f085-464a-b5cf-7b1d75446b58) |
 
 | 쿠폰적용 주문완료 |
 | --- |
-| ![image](https://github.com/user-attachments/assets/2b45c21f-90f9-422c-8980-ce7dfbcc3eba) |
+| ![image](https://github.com/user-attachments/assets/5a80da31-ba68-4b3d-b073-a3861f30a495) |
 <br>
 
 
@@ -167,7 +167,7 @@
 
 | 내정보확인 | 내정보수정 |
 | --- | --- |
-| ![image](https://github.com/user-attachments/assets/ad0fb1d9-0b7f-4903-a0f1-abba6a6778fc) | ![image](https://github.com/user-attachments/assets/ad0fb1d9-0b7f-4903-a0f1-abba6a6778fc) |
+| ![image](https://github.com/user-attachments/assets/ad0fb1d9-0b7f-4903-a0f1-abba6a6778fc) | ![image](https://github.com/user-attachments/assets/f767fe81-a3b7-4156-af8c-7d5de4980309) |
 <br>
 
 #### [6. 상품추기]
@@ -200,10 +200,20 @@
 
 ### 🍊 조경진
 
-프로젝트 후기
+프로젝트 후기 : 기존에 과제를 하면서 AI 활용법이라던지 자바의 상속 구조 라던지 기본 틀을 연습했던거 덕분
+에 이번 기말 과제를 진행함에 있어서 더 편하게 했던거 같습니다. 하지만 이번 프로젝트를 진행하면서 
+기존에는 하나의 기능을 제대로 넣는 느낌이였다면 이번에는 여러 기능을 복합적으로 사용하고 A를 사
+용하면 B가 버그가 걸리는 경우가 많이 생겼습니다. 프로그램을 만들고 버그를 찾아내고 그 버그를 수정
+하는데 생각보다 많은 시간을 사용하게 된 것 같습니다. 이번에 처음으로 조원과 협업을 하여 진행하여 
+팀원과 소을 통해 해결하면서 협업의 중요성을 알 수 있게 되었습니다. 
 
 <br>
 
 ### 🍊 황지민
 
-프로젝트 후기
+프로젝트 후기 : 지금까지는 혼자서 과제로 작은 프로그램을 만들어서 제출해 보는 건만 해봤는데, 이렇게 누군
+가와 같이 협력해서 프로그램을 만드는 건 처음이었습니다. 그러다보니, 혼자 할 때는 내 의견만 가지고 
+진행하면 됐었는데 둘이서 해보니깐 프로젝트 구성 방향은 어떻게 하는 게 좋을지, 파트 담당은 어떻게 
+해야 될 지, 처음이라서 어려움이 있었습니다. 하지만, 어찌어찌해서 결과물을 만들어낼 수 있어서 좋은 
+경험이 되었고, 깃허브를 아주 조금 밖에 안 써봤지만, 경험삼아 연습해 볼 수 있어서 좋았던 것 같습니
+다.   
