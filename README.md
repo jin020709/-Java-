@@ -16,7 +16,7 @@
 |**공통작업**| **조경진** | **황지민** |
 | :------: |  :------: |  :------: |
 | <img src="https://github.com/user-attachments/assets/2cab9bdc-b67d-4130-8416-bae3324f1e3a" height=150 width=150> <br/> | [<img src="https://github.com/user-attachments/assets/42fe3dee-cf9f-41ab-b9ba-595cc5eb3ef5" height=150 width=150> <br/> @jin020709](https://github.com/jin020709)| [<img src="https://github.com/user-attachments/assets/7185f7eb-6df3-41b0-b609-ea94b91f2a09" height=150 width=150> <br/> @20221563](https://github.com/20221563) |
-|공통작업부분<br>| 장바구니<br>주문 관리<br>상품정보<br>시스템 조율<br>READE.md | 고객관리<br>주문항목<br>카테고리<br>관리자 기능|
+|ShopMain<br>| 장바구니<br>주문 관리<br>쿠폰 적용<br>상품정보<br>시스템 조율<br>READE.md | 고객관리<br>주문항목<br>카테고리<br>관리자 기능|
 
 </div>
 
