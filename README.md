@@ -51,17 +51,20 @@
 <details>
   <summary>요구사항 명세서</summary>
 
-  초기화면  
+  1. 초기화면  
   
   ![image](https://github.com/user-attachments/assets/983de764-97a2-4f43-897c-e598a00be915)
 
 3. 회원 로그인 성공 후 화면
+
    ![image](https://github.com/user-attachments/assets/b6983bd5-7dc1-44df-b44e-b0a56dfcf8b4)
 
-4. 장바구니/결제
+5. 장바구니
+   
    ![image](https://github.com/user-attachments/assets/4ed13283-0114-4ff3-9e8f-16f9749a3c52)
 
-5. 관리자 로그인 성공 후 메뉴 / 상품관리화면 / 주문관리화면
+7. 관리자 로그인 성공 후 메뉴
+   
    ![image](https://github.com/user-attachments/assets/6f6f099c-645a-47f9-9faf-22cfa0b29a19)
 
 
