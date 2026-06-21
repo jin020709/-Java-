@@ -102,26 +102,21 @@
 
 | 초기화면 |
 | --- |
+| ![image](https://github.com/user-attachments/assets/827de7d6-6495-4349-bd47-53c3fc797682) |
+
 
 
 <br>
 
-
-### [회원 가입]
+### [회원가입 & 회원 로그인]
 - 회원 가입을 하고 종료하면 CSV 파일에 회원정보가 저장됩니다.
-  
-
-
-<br>
-
-### [회원 로그인]
 - 회원 로그인은 아이디와 비밀번호를 입력하면 종료전에는 자바의 데이터와 비교하여 일치한 경우 로그인에 성공하고 재실행후 에는 CSV 파일과 비교하여 비밀번호가 일치하지 않을 경우 불일치 경고가 표시 됩니다
 
 
 
-| 패스워드 불일치 | 미등록 아이디 |
+| 회원가입&로그인 | 아이디 불일치 |
 | --- | --- |
-
+| ![image](https://github.com/user-attachments/assets/40ade120-c60b-49d8-b4ce-15523f89ff31) | ![image](https://github.com/user-attachments/assets/bb2af471-3e55-440a-99e8-cf448e1fe815) |
 
 <br>
 
@@ -129,17 +124,17 @@
 #### [1. 카테고리별보기]
 -카테고리별 보기를 선택하고 해당 카테고리를 선택하면 해당되어있는 상품 목록이 표시됩니다.
 
-| 상품전체보기 |
+| 카테고리별보기 |
 |----------|
-
+| ![image](https://github.com/user-attachments/assets/8b16e55d-9846-4305-a443-d4eac6e3bdeb) |
 <br>
 
 #### [2. 상품상세조회]
 - 상품 상세조회를 하면 상품번호를 통해 해당 상품을 확인하고 상품 설명과 함께 구매혹은 장바구니를 넣을수 있습니다.
 
-| 상품전체보기 |
+| 상품상세보기 |
 |----------|
-
+| ![image](https://github.com/user-attachments/assets/80c27552-2f05-4143-b848-fbd9e51c3ab1) |
 <br>
 
 
@@ -147,7 +142,7 @@
 - 3을 입력 받으면 해당 구매한 상품의 정보를 확인할 수 있습니다
 | 주문조회 |
 | --- |
-
+| ![image](https://github.com/user-attachments/assets/b96927dd-9e13-47b8-8d50-35c324356138) |
 <br>
 
 #### [5. 장바구니]
@@ -157,9 +152,11 @@
 
 | 장바구니 | 쿠폰결정 화면 |
 | --- | --- |
+| ![image](https://github.com/user-attachments/assets/2b45c21f-90f9-422c-8980-ce7dfbcc3eba) | ![image](https://github.com/user-attachments/assets/5a80da31-ba68-4b3d-b073-a3861f30a495) |
 
-| 주문 완료 |
+| 쿠폰적용 주문완료 |
 | --- |
+| ![image](https://github.com/user-attachments/assets/2b45c21f-90f9-422c-8980-ce7dfbcc3eba) |
 <br>
 
 
@@ -169,7 +166,7 @@
 
 | 내정보확인 | 내정보수정 |
 | --- | --- |
-
+| ![image](https://github.com/user-attachments/assets/ad0fb1d9-0b7f-4903-a0f1-abba6a6778fc) | ![image](https://github.com/user-attachments/assets/ad0fb1d9-0b7f-4903-a0f1-abba6a6778fc) |
 <br>
 
 #### [6. 상품추기]
@@ -178,6 +175,7 @@
 
 | 상품추가 |
 | --- |
+| ![image](https://github.com/user-attachments/assets/fc2e3f31-2c90-4f20-bbd3-d09f16827f90) |
 
 
 <br>
@@ -185,9 +183,9 @@
 #### [7. 고객 벼송현황 변경]
 - 관리자 로그인후에 고객의 배송현황을 확인하여 배송상태를 변경할 수 있습니다
 
-| 내정보확인 |
+| 배송현황 변경 |
 | --- |
-
+| ![image](https://github.com/user-attachments/assets/4689b046-a878-463f-a98c-9f7acdb9ccc5) |
 <br>
 
 #### [8. 종료]
@@ -195,6 +193,7 @@
 
 | 종료 |
 | --- |
+| ![image](https://github.com/user-attachments/assets/6c19a808-24a5-401e-b470-1c13914b68ac) |
 
 ## 6. 프로젝트 후기
 
