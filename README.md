@@ -51,21 +51,17 @@
 <details>
   <summary>요구사항 명세서</summary>
 
-  1. 초기화면  
-  
-  ![image](https://github.com/user-attachments/assets/983de764-97a2-4f43-897c-e598a00be915)
+초기화면  
+![image](https://github.com/user-attachments/assets/983de764-97a2-4f43-897c-e598a00be915)
 
-3. 회원 로그인 성공 후 화면
+회원 로그인 성공 후 화면  
+![image](https://github.com/user-attachments/assets/b6983bd5-7dc1-44df-b44e-b0a56dfcf8b4)
 
-   ![image](https://github.com/user-attachments/assets/b6983bd5-7dc1-44df-b44e-b0a56dfcf8b4)
+장바구니  
+![image](https://github.com/user-attachments/assets/4ed13283-0114-4ff3-9e8f-16f9749a3c52)
 
-5. 장바구니
-   
-   ![image](https://github.com/user-attachments/assets/4ed13283-0114-4ff3-9e8f-16f9749a3c52)
-
-7. 관리자 로그인 성공 후 메뉴
-   
-   ![image](https://github.com/user-attachments/assets/6f6f099c-645a-47f9-9faf-22cfa0b29a19)
+관리자 로그인 성공 후 메뉴  
+![image](https://github.com/user-attachments/assets/6f6f099c-645a-47f9-9faf-22cfa0b29a19)
 
 
 
