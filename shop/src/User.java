@@ -1,16 +1,16 @@
 import java.util.List;
 import java.util.ArrayList;
+import java.io.Serializable;
 
-/**
- * 추상 클래스 - 모든 사용자의 기본 정보
- */
-public abstract class User {
+public abstract class User implements Serializable {
+    private static final long serialVersionUID = 1L;
+
     protected String userId;
     protected String password;
     protected String name;
     protected String address;
     protected String phone;
-    
+
     public User(String userId, String password, String name, String address, String phone) {
         this.userId = userId;
         this.password = password;
@@ -21,33 +21,31 @@ public abstract class User {
     
     public abstract void showMenu();
     
-    // Getter methods
     public String getUserId() { 
         return userId; 
     }
     
-    public String getPassword() { 
+    public String getPassword() {
         return password; 
     }
     
-    public String getName() { 
+    public String getName() {
         return name; 
     }
     
-    public String getAddress() { 
+    public String getAddress() {
         return address; 
     }
     
-    public String getPhone() { 
+    public String getPhone() {
         return phone; 
     }
     
-    // Setter methods
     public void setAddress(String address) { 
         this.address = address; 
     }
     
-    public void setPhone(String phone) { 
+    public void setPhone(String phone) {
         this.phone = phone; 
     }
 }

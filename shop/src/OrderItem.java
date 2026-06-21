@@ -1,10 +1,14 @@
+import java.io.Serializable;
+
 /**
  * 주문 항목 (상품 + 수량)
  */
-public class OrderItem {
+public class OrderItem implements Serializable {
+    private static final long serialVersionUID = 1L;
+    
     private Product product;
     private int quantity;
-    private int itemPrice;  // 구매 당시 가격
+    private int itemPrice;
     
     public OrderItem(Product product, int quantity) {
         this.product = product;

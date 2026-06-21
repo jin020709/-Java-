@@ -1,11 +1,15 @@
+import java.io.Serializable;
+
 /**
  * 상품 클래스
  */
-public class Product {
+public class Product implements Serializable {
+    private static final long serialVersionUID = 1L;
+    
     private int productId;
     private String productName;
     private int price;
-    private int quantity;          // 재고
+    private int quantity;
     private Category category;
     private String description;
     
