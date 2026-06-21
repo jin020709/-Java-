@@ -51,17 +51,18 @@
 <details>
   <summary>요구사항 명세서</summary>
 
-1. 초기화면
-  ![image](https://github.com/user-attachments/assets/983de764-97a2-4f43-897c-e598a00be915)
+ 1. 초기화면
+  ![image](https://github.com/kimg1623/Shopping-CLI-Java/assets/145963790/973c1332-38bb-4187-ab84-4ca33e168388)
 
 2. 회원 로그인 성공 후 화면
-  ![image](https://github.com/user-attachments/assets/b6983bd5-7dc1-44df-b44e-b0a56dfcf8b4)
+   ![image](https://github.com/kimg1623/Shopping-CLI-Java/assets/145963790/7a5de9d5-e1a9-4336-afc7-b55d2e6ede68)
 
-3. 장바구니
-  ![image](https://github.com/user-attachments/assets/4ed13283-0114-4ff3-9e8f-16f9749a3c52)
+3. 장바구니/결제
+   ![image](https://github.com/kimg1623/Shopping-CLI-Java/assets/145963790/70c0ce39-3f57-4930-8cd5-cf604a83802b)
 
 4. 관리자 로그인 성공 후 메뉴 / 상품관리화면 / 주문관리화면
-  ![image](https://github.com/user-attachments/assets/6f6f099c-645a-47f9-9faf-22cfa0b29a19)
+   ![image](https://github.com/kimg1623/Shopping-CLI-Java/assets/145963790/d85f7c9f-ab37-46a0-97d7-e831c1bc6a21)
+
 
 
 
